@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a computer science bachelor's degree student
+i am a computer science bachelor's degree student and a freelance website and program developer
 
 
 ## 🌐 Socials:
