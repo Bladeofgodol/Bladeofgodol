@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a computer science bachelor's degree student and a freelance website and program developer
+i am a computer science bachelor's degree graduate and i work at arifpay sc as a fullstack developer. i also work as a freelance website and program developer
 
 
 ## 🌐 Socials:
