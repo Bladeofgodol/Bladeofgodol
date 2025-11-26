@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science graduate currently working as a Fullstack Developer at Arifpay S.C, a leading fintech company in Ethiopia. I also work as a freelance developer, building websites, mobile apps, and tailored software solutions for clients worldwide.
+I'm a software and tech enthusiast working as a Fullstack Developer. I work as a freelancer developer, building websites, mobile apps, and tailored software solutions for clients worldwide.
 
 I specialize in modern web technologies, mobile development, and ERP customization (especially in Odoo). I'm passionate about solving real-world problems with clean, scalable code.
 
